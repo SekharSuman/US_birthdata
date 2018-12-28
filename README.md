@@ -14,3 +14,9 @@ day_of_week: Day of week (1 to 7)
 births: Number of births that day
 
 source:https://raw.githubusercontent.com/fivethirtyeight/data/master/births/US_births_1994-2003_CDC_NCHS.csv
+
+Note:
+
+This project contains no csv modules  
+
+written functions were used to explore the data.
